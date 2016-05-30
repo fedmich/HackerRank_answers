@@ -7,5 +7,5 @@ def solution(a ):
 
 if __name__ == "__main__":
 	s = raw_input()
-	answer = solution( s)
+	answer = solution( s )
 	print ( answer )
